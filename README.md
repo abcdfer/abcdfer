@@ -35,6 +35,7 @@
 
 <p align="center">
 <a href="https://instagram.com/fern4ndojz"><img src="https://img.shields.io/badge/-@fern4ndojz-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="fernandojimenez064@gmail.com"><img src="https://img.shields.io/badge/-fernandojimenez064@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://discordapp.com/users/329112633955581962" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
 </p>
