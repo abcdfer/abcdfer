@@ -1,5 +1,3 @@
-<h1>Hola, soy Fernando! 👋</h1>
-
 <p align="center">
   <img
     src="./Images/banner-pixel-portal-fernando.gif"
