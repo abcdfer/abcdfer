@@ -30,9 +30,15 @@
 <br/>
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b> Pongamonos en contacto! 🤝 </b>
 <p align="center">
-<a href="https://instagram.com/fern4ndojz"><img src="https://img.shields.io/badge/-@fern4ndojz-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="fernandojimenez064@gmail.com"><img src="https://img.shields.io/badge/-fernandojimenez064@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://discordapp.com/users/329112633955581962" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+<a href="https://instagram.com/fern4ndojz" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-@fern4ndojz-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:fernandojimenez064@gmail.com">
+    <img src="https://img.shields.io/badge/-fernandojimenez064%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+<a href="https://discord.com/users/329112633955581962" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
   
 </p>
 
