@@ -1,6 +1,12 @@
 <h1 align="center">Hola, soy Fernando! 👋</h1>
 
-
+<p align="center">
+  <img
+    src="./Images/ChatGPT%20Image%204%20ago%202026%2C%2011_34_30.png"
+    alt="Banner de Fernando"
+    width="100%"
+  />
+</p>
     
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
