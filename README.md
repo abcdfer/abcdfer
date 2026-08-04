@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="./Images/banner4.png"
+    src="./Images/banner-pixel-portal-fernando.gif"
     alt="Banner de Fernando"
     width="100%"
   />
