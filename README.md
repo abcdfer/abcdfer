@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="./Images/banner.jpg"
+    src="./Images/banner3.png"
     alt="Banner de Fernando"
     width="100%"
   />
