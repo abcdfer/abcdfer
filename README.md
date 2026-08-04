@@ -57,7 +57,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <b>¡Pongámonos en contacto! </b>
 
-<p align="center">
+
 <a href="https://instagram.com/fern4ndojz" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-@fern4ndojz-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
@@ -68,5 +68,5 @@
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   
-</p>
+
 
