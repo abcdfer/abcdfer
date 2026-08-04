@@ -60,9 +60,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <b>¡Pongámonos en contacto! </b>
 
 
-<a href="https://instagram.com/fern4ndojz" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-@fern4ndojz-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+
   <a href="mailto:fernandojimenez064@gmail.com">
     <img src="https://img.shields.io/badge/-fernandojimenez064%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
