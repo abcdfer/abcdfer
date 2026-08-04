@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="./Images/ChatGPT%20Image%204%20ago%202026%2C%2011_34_30.png"
+    src="./Images/banner.jpg"
     alt="Banner de Fernando"
     width="100%"
   />
