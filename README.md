@@ -10,7 +10,12 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Programador" width="38" height="38">  Sobre mi
  
    <p align="center">
-<picture> <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width = 250px></picture>
+<picture>  <img
+    align="right"
+    src="./Images/fernando-dron-pixel-animado.gif"
+    alt="Fernando programando y controlando un dron"
+    width="250px"
+  /></picture>
     </p>
 
 - 🎓 Actualmente estudio **Ingeniería en Sistemas de Información**.
