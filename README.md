@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Fernando! 👋</h1>
+<h1>Hola, soy Fernando! 👋</h1>
 
 <p align="center">
   <img
