@@ -1,15 +1,33 @@
 <h1 align="center">Hola, soy Fernando! 👋</h1>
-<h3 align="center">🎓 Estudiante de Ingeniería en Sistemas de Información</h3>
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
+
+    
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
+ 
+   <p align="center">
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+    </p>
 
+- 🎓 Actualmente estudio **Ingeniería en Sistemas de Información**.
 
-<br><br>
+- 🚀 Me considero una persona **proactiva**, curiosa y comprometida con mi aprendizaje.
+
+- 📚 En mi tiempo libre, una de las actividades que más disfruto es la **lectura**.
+
+- 🎧 La **música** también forma una parte importante de mi día a día.
+
+- 🔐 Tengo interés en áreas como el `Desarrollo de Software`, la `Seguridad Informática` y las `Bases de Datos`.
+
+- 📊 También disfruto trabajar con optimización, análisis de información y resolución de problemas complejos.
+
+- 🌱 Actualmente continúo aprendiendo nuevas tecnologías y fortaleciendo mis habilidades como futuro profesional.
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br><br>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b> Herramientas </b>
 
@@ -29,7 +47,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br/>
+
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <b>¡Pongámonos en contacto! </b>
 
