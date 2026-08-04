@@ -28,7 +28,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b> Pongamonos en contacto! 🤝 </b>
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <b>¡Pongámonos en contacto! 🤝</b>
+
 <p align="center">
 <a href="https://instagram.com/fern4ndojz" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-@fern4ndojz-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
