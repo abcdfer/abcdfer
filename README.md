@@ -1,10 +1,4 @@
-<p align="center">
-  <img
-    src="./Images/banner-pixel-portal-fernando.gif"
-    alt="Banner de Fernando"
-    width="100%"
-  />
-</p>
+
     
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Programador" width="38" height="38">  Sobre mi
