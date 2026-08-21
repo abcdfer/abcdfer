@@ -1,7 +1,5 @@
 
-    
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Programador" width="38" height="38">  Sobre mi
  
    <p align="center">
 <picture>  <img
@@ -10,23 +8,8 @@
     alt="Fernando programando y controlando un dron"
     width="250px"
   /></picture>
-    </p>
+ 
 
-- 🎓 Actualmente estudio **Ingeniería en Sistemas de Información**.
-
-- 🚀 Me considero una persona **proactiva**, curiosa y comprometida con mi aprendizaje.
-
-- 📚 En mi tiempo libre, una de las actividades que más disfruto es la **lectura**.
-
-- 🎧 La **música** también forma una parte importante de mi día a día.
-
-- 🔐 Tengo interés en áreas como el `Desarrollo de Software`, la `Seguridad Informática` y las `Bases de Datos`.
-
-- 📊 También disfruto trabajar con optimización, análisis de información y resolución de problemas complejos.
-
-- 🌱 Actualmente continúo aprendiendo nuevas tecnologías y fortaleciendo mis habilidades como futuro profesional.
-
-<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
